@@ -3,10 +3,12 @@ package com.jpmc.midascore.entity;
 import jakarta.persistence.*;
 
 @Entity
+@Table(name = "user_record")
 public class UserRecord {
 
     @Id
-    @GeneratedValue()
+    // @GeneratedValue()
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id;
 
     @Column(nullable = false)

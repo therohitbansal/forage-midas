@@ -1,0 +1,11 @@
+INSERT INTO user_record  (name, balance) VALUES ('bernie', 1200.23);
+INSERT INTO user_record  (name, balance) VALUES ('grommit', 2215.37);
+INSERT INTO user_record  (name, balance) VALUES ('maria', 2774.14);
+INSERT INTO user_record  (name, balance) VALUES ('mario', 12.34);
+INSERT INTO user_record  (name, balance) VALUES ('waldorf', 444.55);
+INSERT INTO user_record  (name, balance) VALUES ('whosit', 888.90);
+INSERT INTO user_record  (name, balance) VALUES ('whatsit', 777.60);
+INSERT INTO user_record  (name, balance) VALUES ('howsit', 68.70);
+INSERT INTO user_record  (name, balance) VALUES ('wilbur', 3476.21);
+INSERT INTO user_record  (name, balance) VALUES ('antonio', 2121.54);
+INSERT INTO user_record  (name, balance) VALUES ('calypso', 779421.33);
